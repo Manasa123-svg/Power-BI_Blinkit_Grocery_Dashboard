@@ -1,6 +1,5 @@
 # Power BI Blinkit Grocery Sales Dashboard
 
-## Project Summary: Blinkit Grocery Sales Dashboard
 
 ## Objective
 
